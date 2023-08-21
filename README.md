@@ -1,1 +1,2 @@
 # Bioinformatics
+In this project we are trying to decipher the functional role of a bacterial gene by collinearity conserved genomic neighborhood context. To achieve this goal, we developed a code based on the principles identified in the fields of bioinformatics, and also implemented in computational tools such as BioPython and the BLAST database. The code was applied on a group of bacterial genomes and we analyzed the results to infer the functional role of the given COG (Clusters of Orthologous Genes).
